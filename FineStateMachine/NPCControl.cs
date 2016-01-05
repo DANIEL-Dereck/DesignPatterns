@@ -4,6 +4,28 @@ using System.Text;
 
 namespace FineStateMachine
 {
+    /// <summary>
+    /// Place the labels for the Transitions in this enum.
+    /// Don't change the first label, NullTransition as FSMSystem class uses it.
+    /// </summary>
+    public enum Transition
+    {
+        NullTransition = 0, // Use this transition to represent a non-existing transition in your system
+        SawPlayer = 1, // Use this transition to represent an NPC that see player
+        LostPlayer = 2, // Use this transition to represent an NPC that follow is way
+    }
+
+    /// <summary>
+    /// Place the labels for the States in this enum.
+    /// Don't change the first label, NullTransition as FSMSystem class uses it.
+    /// </summary>
+    public enum StateID
+    {
+        NullStateID = 0, // Use this ID to represent a non-existing State in your system
+        ChasingPlayer = 1, // Use this ID to represent an NPC that see player State in your system
+        FollowingPath = 2, // Use this ID to represent an NPC that follow is way State in your system
+    }
+
     public class NPCControl
     {
         public String player;

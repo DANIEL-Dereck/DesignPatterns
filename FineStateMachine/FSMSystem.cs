@@ -46,28 +46,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 namespace FineStateMachine
 {
     /// <summary>
-    /// Place the labels for the Transitions in this enum.
-    /// Don't change the first label, NullTransition as FSMSystem class uses it.
-    /// </summary>
-    public enum Transition
-    {
-        NullTransition = 0, // Use this transition to represent a non-existing transition in your system
-        SawPlayer = 1, // Use this transition to represent an NPC that see player
-        LostPlayer = 2, // Use this transition to represent an NPC that follow is way
-    }
-
-    /// <summary>
-    /// Place the labels for the States in this enum.
-    /// Don't change the first label, NullTransition as FSMSystem class uses it.
-    /// </summary>
-    public enum StateID
-    {
-        NullStateID = 0, // Use this ID to represent a non-existing State in your system
-        ChasingPlayer = 1, // Use this ID to represent an NPC that see player State in your system
-        FollowingPath = 2, // Use this ID to represent an NPC that follow is way State in your system
-    }
-
-    /// <summary>
     /// This class represents the States in the Finite State System.
     /// Each state has a Dictionary with pairs (transition-state) showing
     /// which state the FSM should be if a transition is fired while this state
@@ -182,8 +160,6 @@ namespace FineStateMachine
     /// </summary>
     public class FSMSystem
     {
-        public Dictionary<String, int> Transitions;
-        public Dictionary<String, int> StateIDs;
         private List<FSMState> states;
 
         // The only way one can change the state of the FSM is by performing a transition
