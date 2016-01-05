@@ -1,0 +1,6 @@
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Interpreter\bin\Debug\Interpreter.exe.config
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Interpreter\bin\Debug\Interpreter.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Interpreter\bin\Debug\Interpreter.pdb
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Interpreter\obj\Debug\Interpreter.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Interpreter\obj\Debug\Interpreter.pdb

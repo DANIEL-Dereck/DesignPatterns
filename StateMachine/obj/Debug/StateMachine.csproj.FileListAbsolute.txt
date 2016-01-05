@@ -1,0 +1,6 @@
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\StateMachine\bin\Debug\StateMachine.exe.config
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\StateMachine\bin\Debug\StateMachine.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\StateMachine\bin\Debug\StateMachine.pdb
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\StateMachine\obj\Debug\StateMachine.csprojResolveAssemblyReference.cache
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\StateMachine\obj\Debug\StateMachine.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\StateMachine\obj\Debug\StateMachine.pdb

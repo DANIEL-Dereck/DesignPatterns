@@ -1,0 +1,5 @@
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\CommandWorker\bin\Debug\CommandWorker.exe.config
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\CommandWorker\bin\Debug\CommandWorker.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\CommandWorker\bin\Debug\CommandWorker.pdb
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\CommandWorker\obj\Debug\CommandWorker.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\CommandWorker\obj\Debug\CommandWorker.pdb

@@ -1,0 +1,6 @@
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.pdb

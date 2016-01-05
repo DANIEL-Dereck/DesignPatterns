@@ -1,0 +1,5 @@
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Builder\bin\Debug\Builder.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Builder\bin\Debug\Builder.pdb
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Builder\obj\Debug\Builder.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Builder\obj\Debug\Builder.pdb

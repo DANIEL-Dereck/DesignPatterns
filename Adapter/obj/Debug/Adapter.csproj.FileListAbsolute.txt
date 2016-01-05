@@ -1,0 +1,5 @@
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.pdb

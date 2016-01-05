@@ -1,0 +1,5 @@
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Decorator\obj\Debug\Decorator.pdb

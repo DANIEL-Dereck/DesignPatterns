@@ -1,0 +1,6 @@
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb

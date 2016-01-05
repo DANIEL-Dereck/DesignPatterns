@@ -1,0 +1,5 @@
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+c:\users\tactfactory\documents\visual studio 2015\Projects\DesignPatterns\Strategy\obj\Debug\Strategy.pdb
